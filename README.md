@@ -46,3 +46,4 @@ node app.js
 
 On a cloud, refer to the specific documentation of the cloud, modify your server accordingly and deploy
 
+Membuat sebuah UNIT TEST pada Codeship
